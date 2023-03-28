@@ -1,0 +1,47 @@
+@media screen and (max-width: 479px) {
+    header {
+        width: 200px;
+        height: 200px;
+    }
+
+    .container1 {
+        width: 60px;
+        height: 160px;
+        position: absolute;
+        top: 20px;
+        left: 70px;
+        flex-direction: column
+    }
+
+    .box2 {
+        margin: 0 10px 10px 10px;
+    }
+
+    .box3 {
+        margin: 0 10px 10px 10px;
+    }
+
+    main {
+        display: block;
+    }
+
+    .left {
+        width: 200px;
+        height: 100px;
+    }
+
+    .right {
+        width: 200px;
+        height: 210px;
+    }
+
+    .container2 {
+        position: absolute;
+        top: 20px;
+        left: 25px;
+    }
+
+    footer {
+        width: 200px;
+    }
+}

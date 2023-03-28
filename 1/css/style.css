@@ -1,0 +1,98 @@
+header {
+    width: 400px;
+    height: 100px;
+    background-color: #141f40;
+    position: relative;
+}
+
+.container1 {
+    width: 160px;
+    height: 60px;
+    background-color: white;
+    position: absolute;
+    top: 20px;
+    left: 220px;
+    display: flex;
+}
+
+.box1 {
+    width: 40px;
+    height: 40px;
+    background-color: #a9004b;
+    margin: 10px;
+}
+
+.box2 {
+    width: 40px;
+    height: 40px;
+    background-color: #a9004b;
+    margin: 10px 10px 10px 0;
+}
+
+.box3 {
+    width: 40px;
+    height: 40px;
+    background-color: #a9004b;
+    margin: 10px 10px 10px 0;
+}
+
+main {
+    display: flex;
+}
+
+.left {
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+}
+
+.right {
+    width: 250px;
+    height: 250px;
+    background-color: #8c2727;
+    position: relative;
+}
+
+.container2 {
+    width: 150px;
+    height: 170px;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+.wbox1 {
+    width: 150px;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.wbox2 {
+    width: 150px;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.wbox3 {
+    width: 150px;
+    height: 50px;
+    background-color: white;
+    display: flex;
+}
+
+.box {
+    width: 140px;
+    height: 40px;
+    background-color: #ff863f;
+    margin: auto;
+}
+
+footer {
+    width: 400px;
+    height: 100px;
+    background-color: #d98d30;
+}
