@@ -25,6 +25,7 @@ if ($resultnum <= 10) {
 }
 
   //⑤今日の日付と、名前、番号、おみくじ結果を表示しましょう
+date_default_timezone_set('Asia/Tokyo');
 echo date("Y-m-d H:i:s", time());
 echo "<br>";
 echo "名前は".$myname."です。";
